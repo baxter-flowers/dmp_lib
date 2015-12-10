@@ -1,0 +1,6 @@
+#! /usr/bin/env python
+
+import dmp_lib.dmp_discrete
+
+if __name__ == '__main__':
+    dmp_lib.dmp_discrete.test()
